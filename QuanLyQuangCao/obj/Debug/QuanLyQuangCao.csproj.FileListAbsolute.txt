@@ -1,0 +1,12 @@
+E:\3. LẬP TRÌNH WEB VỚI PHP & MYSQL\[PHP] - CK\QuanLyQuangCao\QuanLyQuangCao\obj\Debug\QuanLyQuangCao.Properties.Resources.resources
+E:\3. LẬP TRÌNH WEB VỚI PHP & MYSQL\[PHP] - CK\QuanLyQuangCao\QuanLyQuangCao\obj\Debug\QuanLyQuangCao.csproj.GenerateResource.cache
+E:\3. LẬP TRÌNH WEB VỚI PHP & MYSQL\[PHP] - CK\QuanLyQuangCao\QuanLyQuangCao\obj\Debug\QuanLyQuangCao.csproj.CoreCompileInputs.cache
+E:\3. LẬP TRÌNH WEB VỚI PHP & MYSQL\[PHP] - CK\QuanLyQuangCao\QuanLyQuangCao\bin\Debug\QuanLyQuangCao.exe.config
+E:\3. LẬP TRÌNH WEB VỚI PHP & MYSQL\[PHP] - CK\QuanLyQuangCao\QuanLyQuangCao\bin\Debug\QuanLyQuangCao.exe
+E:\3. LẬP TRÌNH WEB VỚI PHP & MYSQL\[PHP] - CK\QuanLyQuangCao\QuanLyQuangCao\bin\Debug\QuanLyQuangCao.pdb
+E:\3. LẬP TRÌNH WEB VỚI PHP & MYSQL\[PHP] - CK\QuanLyQuangCao\QuanLyQuangCao\obj\Debug\QuanLyQuangCao.UI.Baiviet.frmDonViDangBai.resources
+E:\3. LẬP TRÌNH WEB VỚI PHP & MYSQL\[PHP] - CK\QuanLyQuangCao\QuanLyQuangCao\obj\Debug\QuanLyQuangCao.UI.Baiviet.frmQuanLyBaiViet.resources
+E:\3. LẬP TRÌNH WEB VỚI PHP & MYSQL\[PHP] - CK\QuanLyQuangCao\QuanLyQuangCao\obj\Debug\QuanLyQuangCao.UI.Baiviet.frmTheLoaiBaiViet.resources
+E:\3. LẬP TRÌNH WEB VỚI PHP & MYSQL\[PHP] - CK\QuanLyQuangCao\QuanLyQuangCao\obj\Debug\QuanLyQuangCao.UI.Baiviet.frmThemSuaBaiViet.resources
+E:\3. LẬP TRÌNH WEB VỚI PHP & MYSQL\[PHP] - CK\QuanLyQuangCao\QuanLyQuangCao\obj\Debug\QuanLyQuangCao.exe
+E:\3. LẬP TRÌNH WEB VỚI PHP & MYSQL\[PHP] - CK\QuanLyQuangCao\QuanLyQuangCao\obj\Debug\QuanLyQuangCao.pdb
