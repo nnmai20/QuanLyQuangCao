@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace QuanLyQuangCao.Properties
+namespace QLQC.Properties
 {
 
 
